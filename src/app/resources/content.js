@@ -6,7 +6,7 @@ const person = {
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
-    role:      'Data Science Student',
+    role:      'Student & Data Scientist | Shaping Ideas with Data',
     avatar:    '/images/avatar.jpg',
     location:  'Europe/Paris',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
     languages: ['English', 'French','Arabic']  // optional: Leave the array empty if you don't want to display languages
@@ -47,9 +47,13 @@ const home = {
     label: 'Home',
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
-    headline: <>Design engineer and builder</>,
-    subline: <>I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
+    headline: <>Data Enthusiast and builder</>,
+    subline: <>Welcome! I’m<InlineCode>Sami</InlineCode>, a Junior Data Scientist and freelancer based in Paris, France.<br/>
+               I specialize in transforming complex data into actionable insights that drive smarter decisions.<br/>
+               Passionate about learning, innovation, and solving challenges, I’m here to help bring your data-driven ideas to life.</>
 }
+
+     
 
 const about = {
     label: 'About',
