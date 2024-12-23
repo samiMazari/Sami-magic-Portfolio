@@ -32,9 +32,9 @@ const social = [
         link: 'https://www.linkedin.com/company/once-ui/',
     },
     {
-        name: 'X',
+        name: 'Kaggle',
         icon: 'x',
-        link: '',
+        link: 'https://www.kaggle.com/mohamedsami01',
     },
     {
         name: 'Email',
