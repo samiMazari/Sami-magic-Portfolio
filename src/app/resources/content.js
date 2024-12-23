@@ -71,7 +71,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>Selene is a Jakarta-based design engineer with a passion for transforming complex challenges into simple, elegant design solutions. Her work spans digital interfaces, interactive experiences, and the convergence of design and technology.</>
+        description: <>Sami is a Junior Data Scientist and freelance based in Paris, France. With a deep passion for uncovering patterns and solving problems, I turn raw data into meaningful insights that empower smarter decisions.</>
     },
     work: {
         display: true, // set to false to hide this section
