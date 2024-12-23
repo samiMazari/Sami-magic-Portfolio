@@ -121,20 +121,7 @@ const about = {
             {
                 name: 'University of Paris-Est Creteil (UPEC)',
                 description: <>Studied software engineering.</>,
-            images: [
-                    {
-                         src: '/images/projects/project-01/cover-01.jpg',
-                        alt: 'Once UI Project',
-                        width: 16,
-                        height: 9
-                    },
-                    {
-                        src: '/images/projects/project-01/cover-03.jpg',
-                        alt: 'Project image',
-                        width: 16,
-                        height: 9
-                    },
-                ]
+            
             },
             {
                 name: 'National School of Statistics and Applied Economics (ENSEA)',
@@ -166,6 +153,17 @@ const about = {
                 ]
             },
             {
+                title: 'Next.js',
+                description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
+                // optional: leave the array empty if you don't want to display images
+                images: [
+                    {
+                        src: '/images/projects/project-01/cover-04.jpg',
+                        alt: 'Project image',
+                        width: 16,
+                        height: 9
+                    },
+                    {
                 title: 'Next.js',
                 description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
                 // optional: leave the array empty if you don't want to display images
