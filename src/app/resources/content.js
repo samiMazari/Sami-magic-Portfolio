@@ -48,9 +48,7 @@ const home = {
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Data Enthusiast and builder</>,
-    subline: <>Welcome! I’m<InlineCode>Sami</InlineCode>, a Junior Data Scientist and freelancer based in Paris, France.<br/>
-               I specialize in transforming complex data into actionable insights that drive smarter decisions.<br/>
-               Passionate about learning, innovation, and solving challenges, I’m here to help bring your data-driven ideas to life.</>
+    subline: <>Welcome! I’m <InlineCode>Sami</InlineCode>, a Junior Data Scientist and freelancer.<br/>I specialize in transforming complex data into actionable insights that drive smarter decisions.</>
 }
 
      
