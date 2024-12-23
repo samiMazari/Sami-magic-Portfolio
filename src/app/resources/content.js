@@ -134,7 +134,7 @@ const about = {
         title: 'Technical skills',
         skills: [
             {
-                title: 'Figma',
+                title: 'Python',
                 description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
                 // optional: leave the array empty if you don't want to display images
                 images: [
