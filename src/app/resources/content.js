@@ -166,7 +166,7 @@ const about = {
                         alt: 'Project image',
                         width: 16,
                         height: 9
-                    },
+                    }
                 ]
             }
         ]
