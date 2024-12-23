@@ -115,6 +115,20 @@ const about = {
             {
                 name: 'University of Paris-Est Creteil (UPEC)',
                 description: <>Studied software engineering.</>,
+            images: [
+                    {
+                        src: '/images/projects/project-01/cover-02.jpg',
+                        alt: 'Project image',
+                        width: 16,
+                        height: 9
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-03.jpg',
+                        alt: 'Project image',
+                        width: 16,
+                        height: 9
+                    },
+                ]
             },
             {
                 name: 'National School of Statistics and Applied Economics (ENSEA)',
