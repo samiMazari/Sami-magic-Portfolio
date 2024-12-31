@@ -327,6 +327,39 @@ export default function About(
                         </>
                     )}
 
+		     { about.internship.display && (
+                        <>
+                            <Heading
+                                as="h2"
+                                id={about.internship.title}
+                                variant="display-strong-s"
+                                marginBottom="m">
+                                {about.internship.title}
+                            </Heading>
+                            <Flex
+                                direction="column"
+                                fillWidth gap="l" marginBottom="40">
+                                {about.internship.institutions.map((institution, index) => (
+                                    <Flex
+                                        key={`${institution.name}-${index}`}
+                                        fillWidth gap="4"
+                                        direction="column">
+                                        <Text
+                                            id={institution.name}
+                                            variant="heading-strong-l">
+                                            {institution.name}
+                                        </Text>
+                                        <Text
+                                            variant="heading-default-xs"
+                                            onBackground="neutral-weak">
+                                            {institution.description}
+                                        </Text>
+                                    </Flex>
+                                ))}
+                            </Flex>
+                        </>
+                    )}
+
                     { about.technical.display && (
                         <>
                             <Heading
