@@ -1,5 +1,5 @@
 import { IconType } from 'react-icons';
-import { ReactComponent as KaggleIcon } from 'src/once-ui/Kaggle.svg';
+import { KaggleIcon } from 'src/once-ui/Kaggle.svg';
 
 import {
 	HiChevronUp,
@@ -71,8 +71,4 @@ export const iconLibrary: Record<string, IconType> = {
         instagram: FaInstagram
 };
 
-// export const iconLibrary: Record<string, React.FC<React.SVGProps<SVGSVGElement>>> = {
-//     // Other icons...
-//     kaggle: KaggleIcon,
-// };
 
