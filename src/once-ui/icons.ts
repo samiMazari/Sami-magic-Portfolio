@@ -63,5 +63,8 @@ export const iconLibrary: Record<string, IconType> = {
 	github: FaGithub,
 	linkedin: FaLinkedin,
 	x: FaXTwitter,
-	clipboard: HiClipboard
+	clipboard: HiClipboard,
+	youtube: FaYoutube,
+        instagram: FaInstagram
+};
 };
