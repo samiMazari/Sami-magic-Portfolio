@@ -119,7 +119,7 @@ const about = {
                 achievements: [
                     <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
                     <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
-                ],
+                ]
             }
         ]
     },
