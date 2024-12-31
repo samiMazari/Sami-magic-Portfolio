@@ -165,7 +165,7 @@ const about = {
                     },
                   
                 ]
-            }
+            },
             {
                 title: 'Next.js',
                 description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
