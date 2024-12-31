@@ -1,5 +1,5 @@
 import { IconType } from 'react-icons';
-import { ReactComponent as KaggleIcon } from 'src/once-ui/Kaggle.svg';
+import { KaggleIcon } from 'src/once-ui/Kaggle.svg';
 
 import {
 	HiChevronUp,
@@ -36,7 +36,8 @@ import {
 	FaLinkedin,
 	FaXTwitter,
 	FaYoutube,
-        FaInstagram
+        FaInstagram,
+	KaggleIcon
 } from "react-icons/fa6";
 
 export const iconLibrary: Record<string, IconType> = {
