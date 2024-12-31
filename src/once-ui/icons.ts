@@ -71,8 +71,8 @@ export const iconLibrary: Record<string, IconType> = {
         instagram: FaInstagram
 };
 
-export const iconLibrary: Record<string, React.FC<React.SVGProps<SVGSVGElement>>> = {
-    // Other icons...
-    kaggle: KaggleIcon,
-};
+// export const iconLibrary: Record<string, React.FC<React.SVGProps<SVGSVGElement>>> = {
+//     // Other icons...
+//     kaggle: KaggleIcon,
+// };
 
