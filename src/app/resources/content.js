@@ -126,7 +126,7 @@ const about = {
             }
         ]
     },
-     work: {
+     studWork: {
         display: true, // set to false to hide this section
         title: 'Studies Experience',
         experiences: [
