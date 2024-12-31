@@ -111,7 +111,7 @@ const about = {
                         width: 16,
                         height: 9
                     }]
-            }
+            },
              {
                 company: 'Sonatrach',
                 timeframe: 'JAN2022-JAN2023',
