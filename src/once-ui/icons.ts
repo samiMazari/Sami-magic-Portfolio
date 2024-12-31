@@ -67,4 +67,4 @@ export const iconLibrary: Record<string, IconType> = {
 	youtube: FaYoutube,
         instagram: FaInstagram
 };
-};
+
