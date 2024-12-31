@@ -126,6 +126,24 @@ const about = {
             }
         ]
     },
+     work: {
+        display: true, // set to false to hide this section
+        title: 'Studies Experience',
+        experiences: [
+            {
+                company: 'Sonatrach',
+                timeframe: 'JAN2022-JAN2023',
+                role: 'Stage',
+                achievements: [
+                    <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
+                    <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
+                ],
+                images: [ // optional: leave the array empty if you don't want to display images
+                    
+                ]
+            }
+        ]
+    },
     studies: {
         display: true, // set to false to hide this section
         title: 'Studies',
