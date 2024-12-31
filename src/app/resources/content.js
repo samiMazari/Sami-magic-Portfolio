@@ -84,7 +84,7 @@ const about = {
                 timeframe: '2022 - Present',
                 role: 'Junior Data Scientist',
                 achievements: [
-                    <>Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.</>,
+                    <>🔍 Exploration et analyse de données : Nettoyage, visualisation et interprétation des données pour en extraire des insights pertinents.</>,
                     <>Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.</>
                 ],
                 images: [ // optional: leave the array empty if you don't want to display images
@@ -120,6 +120,7 @@ const about = {
         institutions: [
             {
                 name: 'University of Paris-Est Creteil (UPEC)',
+                role: 'Data Scientist',
                 description: <>Studied software engineering.</>,
             
             },
