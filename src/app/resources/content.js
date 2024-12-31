@@ -32,8 +32,8 @@ const social = [
         link: 'https://www.linkedin.com/in/mohamed-sami-mazari/',
     },
     {
-        name: 'Instagram',
-        icon: 'instagram',
+        name: 'K kaggle',
+        icon: '',
         link: 'https://www.kaggle.com/mohamedsami01',
     },
     {
