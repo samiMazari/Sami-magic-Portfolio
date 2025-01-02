@@ -81,7 +81,7 @@ const about = {
         experiences: [
             {
                 company: 'Fiverr',
-                timeframe: '2022 - Present',
+                timeframe: 'JAN2024 - Present',
                 role: 'Junior Data Scientist',
                 achievements: [
                     <>🔍 Exploration et analyse de données : Nettoyage, visualisation et interprétation des données pour en extraire des insights pertinents.</>,
@@ -93,12 +93,13 @@ const about = {
                 ]
             },
             {
-                company: 'Protech',
-                timeframe: '2022-2023',
+                company: 'Protech Association',
+                timeframe: 'JAN2023-FEV2024',
                 role: 'general secretary',
                 achievements: [
-                    <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
-                    <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
+                    <>📋 Gestion administrative : Gérer les documents officiels, tels que les statuts, les règlements internes, et les archives.</>,
+                    <>📆 Planification et coordination : Coordonner les calendriers des activités, des événements, et des réunions.</>
+                    <>🔍 Respect des statuts et règlements : Veiller à ce que les activités et décisions soient conformes aux statuts et objectifs de l'association.</>
                 ],
                 images: [ 
                     {
