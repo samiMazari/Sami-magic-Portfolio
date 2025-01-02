@@ -94,7 +94,7 @@ const about = {
             },
             {
                 company: 'Protech Association',
-                timeframe: 'JAN2023-FEV2024',
+                timeframe: 'JAN2023-FEB2024',
                 role: 'general secretary',
                 achievements: [
                     <>📋 Gestion administrative : Gérer les documents officiels, tels que les statuts, les règlements internes, et les archives.</>,
@@ -126,12 +126,12 @@ const about = {
     },
      internship: {
         display: true, // set to false to hide this section
-        title: 'Work ',
+        title: 'Studies Internship',
         experiences: [
             {
-                company: 'Association',
-                timeframe: 'JAN2023-FEV2024',
-                role: 'general secretary',
+                company: 'Saa Assurance Company',
+                timeframe: 'FEB2024-JUN2024',
+                role: 'Assssiate',
                 achievements: [
                     <>📋 Gestion administrative : Gérer les documents officiels, tels que les statuts, les règlements internes, et les archives.</>,
                     <>📆 Planification et coordination : Coordonner les calendriers des activités, des événements, et des réunions.</>,
