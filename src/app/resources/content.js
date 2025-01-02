@@ -133,12 +133,8 @@ const about = {
             
             },
             {
-                name: 'National School of Statistics and Applied Economics (ENSEA)',
-                description: <>Studied online marketing and personal branding.</>,
-            },
-            {
-                name: 'National School of Statistics and Applied Economics (ENSEA)',
-                description: <>Studied online marketing and personal branding.</>,
+                name: 'National School of Statistics and Applied Economics (ENSSEA)',
+                description: <>Preparatory class .</>,
             }
         ]
     },
