@@ -126,10 +126,10 @@ const about = {
     },
      internship: {
         display: true, // set to false to hide this section
-        title: 'Work Experience',
+        title: 'Work ',
         experiences: [
             {
-                company: 'Protech Association',
+                company: 'Association',
                 timeframe: 'JAN2023-FEV2024',
                 role: 'general secretary',
                 achievements: [
