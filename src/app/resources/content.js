@@ -85,7 +85,8 @@ const about = {
                 role: 'Junior Data Scientist',
                 achievements: [
                     <>🔍 Exploration et analyse de données : Nettoyage, visualisation et interprétation des données pour en extraire des insights pertinents.</>,
-                    <>Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.</>
+                    <>📋 Rapports analytiques : Production de rapports clairs et compréhensibles avec des visualisations et des recommandations.</>
+                    <>🗂️ Organisation et structuration des données : Mise en place d'un fichier propre et bien structuré pour faciliter l'analyse future.</>
                 ],
                 images: [ // optional: leave the array empty if you don't want to display images
                     
