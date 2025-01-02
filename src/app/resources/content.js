@@ -124,16 +124,6 @@ const about = {
             }
         ]
     },
-    internship: {
-        display: true, // set to false to hide this section
-        title: 'Studies internship',
-        institutions: [
-            {
-                name: 'National School of Statistics and Applied Economics (ENSSEA)',
-                description: <>Studied online marketing and personal branding.</>,
-            }
-        ]
-    },
     technical: {
         display: true, // set to false to hide this section
         title: 'Technical skills',
