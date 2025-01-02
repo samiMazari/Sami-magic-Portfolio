@@ -131,11 +131,11 @@ const about = {
             {
                 company: 'Saa Assurance Company',
                 timeframe: 'FEB2024-JUN2024',
-                role: 'Assssiate',
+                role: 'Associate Data Analyst',
                 achievements: [
-                    <>📋 Gestion administrative : Gérer les documents officiels, tels que les statuts, les règlements internes, et les archives.</>,
-                    <>📆 Planification et coordination : Coordonner les calendriers des activités, des événements, et des réunions.</>,
-                    <>🔍 Respect des statuts et règlements : Veiller à ce que les activités et décisions soient conformes aux statuts et objectifs de l'association.</>
+                    <>Practical Data Handling Skills : Data Cleaning & Preparation, Data Querying, Data Integration </>,
+                    <>Data Analysis & Insights Development : Exploratory Data Analysis (EDA), Statistical Analysis, Reporting:</>,
+                   
                 ],
                 images: [ 
                    ]
