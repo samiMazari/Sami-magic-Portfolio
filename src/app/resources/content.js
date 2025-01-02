@@ -102,25 +102,9 @@ const about = {
                     <>🔍 Respect des statuts et règlements : Veiller à ce que les activités et décisions soient conformes aux statuts et objectifs de l'association.</>
                 ],
                 images: [ 
-                    {
-                        src: '/images/projects/project-01/cover-01.jpg',
-                        alt: 'Once UI Project',
-                        width: 16,
-                        height: 9
-                    }]
-            },
-             {
-                company: 'Sonatrach',
-                timeframe: 'JAN2022-JAN2023',
-                role: 'Stage',
-                achievements: [
-                    <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
-                    <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
-                ],
-                images: [ // optional: leave the array empty if you don't want to display images
-                    
-                ]
+                   ]
             }
+            
         ]
            
     },
