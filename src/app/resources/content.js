@@ -120,7 +120,8 @@ const about = {
             },
             {
                 name: 'National School of Statistics and Applied Economics (ENSSEA)',
-                description: <>Preparatory class .</>,
+                description: <>Classe Préparaoire Statiqtique et economie appliquée  </>,
+                timeframe: '2021-2024',
             }
         ]
     },
