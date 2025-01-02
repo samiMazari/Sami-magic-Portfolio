@@ -327,19 +327,19 @@ export default function About(
                         </>
                     )}
 
-		     { about.work.display && (
+		     { about.internship.display && (
                         <>
                             <Heading
                                 as="h2"
-                                id={about.work.title}
+                                id={about.internship.title}
                                 variant="display-strong-s"
                                 marginBottom="m">
-                                {about.work.title}
+                                {about.internship.title}
                             </Heading>
                             <Flex
                                 direction="column"
                                 fillWidth gap="l" marginBottom="40">
-                                {about.work.experiences.map((experience, index) => (
+                                {about.internship.experiences.map((experience, index) => (
                                     <Flex
                                         key={`${experience.company}-${experience.role}-${index}`}
                                         fillWidth
