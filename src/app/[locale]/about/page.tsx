@@ -60,11 +60,6 @@ export default function About(
             display: about.studies.display,
             items: about.studies.institutions.map(institution => institution.name)
         },
-	 { 
-            title: about.internship.title,
-            display: about.internship.display,
-            items: about.internship.institutions.map(institution => institution.name)
-        },
         { 
             title: about.technical.title,
             display: about.technical.display,
