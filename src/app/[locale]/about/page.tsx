@@ -324,7 +324,7 @@ export default function About(
 					<Text
                                                 variant="heading-default-xs"
                                                 onBackground="neutral-weak">
-                                                {institutions.timeframe}
+                                             {institution.timeframe}
                                         </Text>
                                     </Flex>
                                 ))}
