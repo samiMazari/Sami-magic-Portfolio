@@ -124,6 +124,26 @@ const about = {
             }
         ]
     },
+     internship: {
+        display: true, // set to false to hide this section
+        title: 'Work Experience',
+        experiences: [
+            {
+                company: 'Protech Association',
+                timeframe: 'JAN2023-FEV2024',
+                role: 'general secretary',
+                achievements: [
+                    <>📋 Gestion administrative : Gérer les documents officiels, tels que les statuts, les règlements internes, et les archives.</>,
+                    <>📆 Planification et coordination : Coordonner les calendriers des activités, des événements, et des réunions.</>,
+                    <>🔍 Respect des statuts et règlements : Veiller à ce que les activités et décisions soient conformes aux statuts et objectifs de l'association.</>
+                ],
+                images: [ 
+                   ]
+            }
+            
+        ]
+           
+    },
     technical: {
         display: true, // set to false to hide this section
         title: 'Technical skills',
