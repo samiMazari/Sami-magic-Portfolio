@@ -315,17 +315,18 @@ export default function About(
                                             id={institution.name}
                                             variant="heading-strong-l">
                                             {institution.name}
+                                        </Text>  
+					<Text
+                                                variant="heading-default-xs"
+                                                onBackground="neutral-weak">
+                                             {institution.timeframe}
                                         </Text>
                                         <Text
                                             variant="heading-default-xs"
                                             onBackground="neutral-weak">
                                             {institution.description}
                                         </Text>
-					<Text
-                                                variant="heading-default-xs"
-                                                onBackground="neutral-weak">
-                                             {institution.timeframe}
-                                        </Text>
+					
                                     </Flex>
                                 ))}
                             </Flex>
