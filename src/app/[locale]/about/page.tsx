@@ -317,8 +317,8 @@ export default function About(
                                             {institution.name}
                                         </Text>  
 					<Text
-                                                variant="heading-default-xs"
-                                                onBackground="neutral-weak">
+                                             variant="heading-default-xs"
+                                             onBackground="neutral-weak">
                                              {institution.timeframe}
                                         </Text>
                                         <Text
