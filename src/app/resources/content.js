@@ -150,8 +150,8 @@ const about = {
         title: 'Technical skills',
         skills: [
             {
-                title: 'Python',
-                description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+                title: 'SAS Programmer Professional Certificate ',
+                description: <>The SAS® Base Programming courses, i had a demonstrated skills in manipulating and transforming data, combining SAS data sets, creating basic detail and summary reports using SAS procedures and identifying and correcting data, syntax and programming logic errors. </>,
                 // optional: leave the array empty if you don't want to display images
                 images: [
                     {
