@@ -321,6 +321,11 @@ export default function About(
                                             onBackground="neutral-weak">
                                             {institution.description}
                                         </Text>
+					<Text
+                                                variant="heading-default-xs"
+                                                onBackground="neutral-weak">
+                                                {institutions.timeframe}
+                                        </Text>
                                     </Flex>
                                 ))}
                             </Flex>
