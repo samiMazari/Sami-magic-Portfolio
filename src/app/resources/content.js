@@ -113,8 +113,8 @@ const about = {
         title: 'Studies',
         institutions: [
             {
-                name: 'University of Paris-Est Creteil (UPEC)',                                                       timeframe: 'FEB2024-JUN2024',
-                
+                name: 'University of Paris-Est Creteil (UPEC)',                                                       
+                timeframe: 'FEB2024-JUN2024',
                 role: 'Licence',
                 description: <>Studied software engineering.</>,
             
