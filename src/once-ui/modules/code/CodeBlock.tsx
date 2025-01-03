@@ -27,7 +27,7 @@ import 'prismjs/components/prism-jsx';
 import 'prismjs/components/prism-css';
 import 'prismjs/components/prism-typescript';
 import 'prismjs/components/prism-tsx';
-import { iconLibrary } from './icons';
+import { iconLibrary } from '../once-ui/icons';
 
 const Example = () => {
   const Icon = iconLibrary.kaggle;
