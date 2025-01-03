@@ -156,6 +156,7 @@ const about = {
                 images: [
                     {
                         src: '/images/projects/project-01/Certicate01.jpg',
+                        link: 'https://github.com/samiMazari',
                         alt: 'Project image',
                         width: 16,
                         height: 9
