@@ -2,6 +2,18 @@
 
 import React, { useState, useCallback } from 'react';
 import { Heading, Flex, IconButton, Toaster } from '@/once-ui/components';
+import { iconLibrary } from './icons';
+
+const Example = () => {
+  const Icon = iconLibrary.kaggle;
+
+  return (
+    <div>
+      <Icon size={24} color="blue" />
+      <p>Mon Icône Kaggle</p>
+    </div>
+  );
+};
 
 import styles from '@/components/HeadingLink.module.scss';
 
