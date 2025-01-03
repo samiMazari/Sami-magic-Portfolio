@@ -151,7 +151,7 @@ const about = {
         skills: [
             {
                 title: 'SAS Programmer Professional Certificate ',
-                ddescription: (
+                description: (
                 <>
                     The SAS® Base Programming courses, I demonstrated skills in manipulating and transforming data, combining SAS data sets, creating basic detail and summary reports using SAS procedures, and identifying and correcting data.
                     <br />
