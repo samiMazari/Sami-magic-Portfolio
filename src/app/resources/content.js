@@ -151,8 +151,19 @@ const about = {
         skills: [
             {
                 title: 'SAS Programmer Professional Certificate ',
-                description: <>The SAS® Base Programming courses, i had a demonstrated skills in manipulating and transforming data, combining SAS data sets, creating basic detail and summary reports using SAS procedures and identifying and correcting data.</>,
-                link: 'https://github.com/samiMazari',
+                ddescription: (
+                <>
+                    The SAS® Base Programming courses, I demonstrated skills in manipulating and transforming data, combining SAS data sets, creating basic detail and summary reports using SAS procedures, and identifying and correcting data.
+                    <br />
+                    <a 
+                        href="https://www.coursera.org/account/accomplishments/professional-cert/N5GMJP6481QO" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                    >
+                        See the Certification on COURSERA
+                    </a>
+                </>
+            ),
                 // optional: leave the array empty if you don't want to display images
                 images: [
                     {
