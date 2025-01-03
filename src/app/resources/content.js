@@ -152,11 +152,11 @@ const about = {
             {
                 title: 'SAS Programmer Professional Certificate ',
                 description: <>The SAS® Base Programming courses, i had a demonstrated skills in manipulating and transforming data, combining SAS data sets, creating basic detail and summary reports using SAS procedures and identifying and correcting data.</>,
+                link: 'https://github.com/samiMazari',
                 // optional: leave the array empty if you don't want to display images
                 images: [
                     {
                         src: '/images/projects/project-01/Certicate01.jpg',
-                        link: 'https://github.com/samiMazari',
                         alt: 'Project image',
                         width: 16,
                         height: 9
