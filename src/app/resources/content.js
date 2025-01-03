@@ -160,12 +160,6 @@ const about = {
                         width: 16,
                         height: 9
                     },
-                    {
-                        src: '/images/projects/project-01/cover-03.jpg',
-                        alt: 'Project image',
-                        width: 16,
-                        height: 9
-                    },
                 ]
             },
             {
