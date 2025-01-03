@@ -120,7 +120,18 @@ const about = {
             },
             {
                 name: 'National School of Statistics and Applied Economics (ENSSEA)',
-                description: <>Classe Préparaoire Statiqtique et economie appliquée  </>,
+                 description: (
+                <>
+                    Licence Economie Et traitement de l'information (En cours).{' '}
+                    <a 
+                        href="https://www.u-pec.fr/" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                    >
+                        Learn more
+                    </a>
+                </>
+            ),
                 timeframe: '2021-2024',
             }
         ]
