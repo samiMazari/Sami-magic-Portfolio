@@ -29,17 +29,6 @@ import 'prismjs/components/prism-typescript';
 import 'prismjs/components/prism-tsx';
 import { iconLibrary } from '../once-ui/icons';
 
-const Example = () => {
-  const Icon = iconLibrary.kaggle;
-
-  return (
-    <div>
-      <Icon size={24} color="blue" />
-      <p>Mon Icône Kaggle</p>
-    </div>
-  );
-};
-
 type CodeInstance = {
     code: string;
     language: string;
