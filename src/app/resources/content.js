@@ -164,7 +164,7 @@ const about = {
                 ]
             },
             {
-                title: 'Next.js',
+                title: 'Data Analyst in Python ',
                 description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
                 // optional: leave the array empty if you don't want to display images
                 images: [
