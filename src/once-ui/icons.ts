@@ -1,5 +1,6 @@
 import { IconType } from 'react-icons';
-import KaggleIcon from 'src/once-ui/Kaggle.svg';
+import KaggleIcon from '../once-ui/Kaggle.svg';
+
 
 import {
 	HiChevronUp,
