@@ -1,4 +1,5 @@
 import { IconType } from 'react-icons';
+import KaggleIcon from 'src/once-ui/Kaggle.svg';
 
 import {
 	HiChevronUp,
@@ -67,7 +68,8 @@ export const iconLibrary: Record<string, IconType> = {
 	x: FaXTwitter,
 	clipboard: HiClipboard,
 	youtube: FaYoutube,
-        instagram: FaInstagram
+        instagram: FaInstagram,
+	kaggle: KaggleIcon,
 };
 
 
