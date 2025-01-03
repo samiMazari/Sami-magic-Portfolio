@@ -2,7 +2,6 @@
 
 import React, { useState, useCallback } from 'react';
 import { Heading, Flex, IconButton, Toaster } from '@/once-ui/components';
-import { iconLibrary } from './icons';
 
 const Example = () => {
   const Icon = iconLibrary.kaggle;
