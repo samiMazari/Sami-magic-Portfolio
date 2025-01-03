@@ -3,16 +3,6 @@
 import React, { useState, useCallback } from 'react';
 import { Heading, Flex, IconButton, Toaster } from '@/once-ui/components';
 
-const Example = () => {
-  const Icon = iconLibrary.kaggle;
-
-  return (
-    <div>
-      <Icon size={24} color="blue" />
-      <p>Mon Icône Kaggle</p>
-    </div>
-  );
-};
 
 import styles from '@/components/HeadingLink.module.scss';
 
@@ -68,6 +58,17 @@ export const HeadingLink: React.FC<HeadingLinkProps> = ({
 
     const variant = variantMap[level];
     const asTag = `h${level}` as keyof JSX.IntrinsicElements;
+  
+    const Example = () => {
+       const Icon = iconLibrary.kaggle;
+
+     return (
+        <div>
+        <Icon size={24} color="blue" />
+        <p>Mon Icône Kaggle</p>
+       </div>
+            );
+    };
 
     return (
         <Flex>
