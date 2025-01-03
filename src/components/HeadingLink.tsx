@@ -58,8 +58,6 @@ export const HeadingLink: React.FC<HeadingLinkProps> = ({
 
     const variant = variantMap[level];
     const asTag = `h${level}` as keyof JSX.IntrinsicElements;
-  
-
     return (
         <Flex>
             <Toaster toasts={toasts} removeToast={removeToast}/>
