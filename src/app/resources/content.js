@@ -160,7 +160,7 @@ const about = {
                         target="_blank" 
                         rel="noopener noreferrer"
                     >
-                        See the Certification on COURSERA
+                        See Certification on COURSERA
                     </a>
                 </>
             ),
@@ -176,7 +176,19 @@ const about = {
             },
             {
                 title: 'Data Analyst in Python ',
-                description: <>The DataCamp Certificate for Data Analysts in Python validates proficiency in essential data analysis skills, including Python programming, data manipulation with pandas, and visualization with libraries like Matplotlib and Seaborn. It also assesses practical problem-solving abilities using real-world datasets. This certification is designed to showcase readiness for data-driven roles.</>,
+                description: (
+                <>
+                    The DataCamp Certificate for Data Analysts in Python validates proficiency in essential data analysis skills, including Python programming, data manipulation with pandas, and visualization with libraries like Matplotlib and Seaborn. 
+                    <br />
+                    <a 
+                        href="https://www.datacamp.com/completed/statement-of-accomplishment/track/9b8fd93ce8c4a57be6c604da534ae1789e16e247" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                    >
+                        See Certification on DataCamp
+                    </a>
+                </>
+            ),
                 // optional: leave the array empty if you don't want to display images
                 images: [
                     {
