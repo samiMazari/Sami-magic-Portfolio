@@ -165,11 +165,11 @@ const about = {
             },
             {
                 title: 'Data Analyst in Python ',
-                description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
+                description: <>The DataCamp Certificate for Data Analysts in Python validates proficiency in essential data analysis skills, including Python programming, data manipulation with pandas, and visualization with libraries like Matplotlib and Seaborn. It also assesses practical problem-solving abilities using real-world datasets. This certification is designed to showcase readiness for data-driven roles.</>,
                 // optional: leave the array empty if you don't want to display images
                 images: [
                     {
-                        src: '/images/projects/project-01/cover-04.jpg',
+                        src: '/images/projects/project-01/Certificate02.jpg',
                         alt: 'Project image',
                         width: 16,
                         height: 9
