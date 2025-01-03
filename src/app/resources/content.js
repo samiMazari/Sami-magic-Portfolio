@@ -198,7 +198,7 @@ const work = {
 }
 
 const gallery = {
-    label: 'Gallery',
+    label: 'Library',
     title: 'My photo gallery',
     description: `A photo collection by ${person.name}`,
     // Images from https://pexels.com
@@ -248,31 +248,7 @@ const gallery = {
             alt: 'image',
             orientation: 'horizontal'
         },
-        { 
-            src: '/images/gallery/img-10.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-11.jpg', 
-            alt: 'image',
-            orientation: 'vertical'
-        },
-        { 
-            src: '/images/gallery/img-12.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-13.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-14.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
+        
     ]
 }
 
