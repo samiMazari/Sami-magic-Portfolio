@@ -33,7 +33,7 @@ const social = [
     },
     {
         name: 'kaggle',
-        icon: 'kaggle',
+        icon: '',
         link: 'https://www.kaggle.com/mohamedsami01',
     },
     {
