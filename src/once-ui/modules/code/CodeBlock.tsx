@@ -27,7 +27,6 @@ import 'prismjs/components/prism-jsx';
 import 'prismjs/components/prism-css';
 import 'prismjs/components/prism-typescript';
 import 'prismjs/components/prism-tsx';
-import { iconLibrary } from '../once-ui/icons';
 
 type CodeInstance = {
     code: string;
