@@ -80,7 +80,7 @@ const about = {
         title: 'Work Experience',
         experiences: [
             {
-                company: 'Fiverr',
+                company: 'Projects',
                 timeframe: 'JAN2024 - Present',
                 role: 'Junior Data Scientist',
                 achievements: [
