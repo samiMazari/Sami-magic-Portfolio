@@ -1,6 +1,6 @@
-# **Build your portfolio with Once UI's Magic Portfolio**
+# **My Magic Portfolio **
 
-View the [demo here](https://demo.magic-portfolio.com).
+See my portfolio [magic portfolio](https://sami-magic-portfolio.vercel.app/about).
 
 ![Magic Portfolio](public/images/cover.png)
 
