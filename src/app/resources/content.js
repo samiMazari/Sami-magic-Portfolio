@@ -73,7 +73,7 @@ const about = {
         title: 'Introduction',
         description: <>Sami is a Junior Data Scientist and freelance based in Paris, France. With a deep passion for uncovering patterns and solving problems, I turn raw data into meaningful insights that empower smarter decisions.<br/>
     <br/>
-        Let’s explore the possibilities data can unlock—together</>
+        Let’s explore the possibilities data can unlock—together!</>
     },
     work: {
         display: true, // set to false to hide this section
